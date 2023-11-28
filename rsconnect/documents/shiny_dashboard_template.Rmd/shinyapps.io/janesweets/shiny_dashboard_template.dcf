@@ -1,0 +1,12 @@
+name: shiny_dashboard_template
+title: shiny_dashboard_template
+username: janesweets
+account: janesweets
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10657448
+bundleId: 7981612
+url: https://janesweets.shinyapps.io/shiny_dashboard_template/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
