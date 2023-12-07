@@ -2,6 +2,9 @@
 title: "Shiny Dashboard"
 output: 
   flexdashboard::flex_dashboard:
+    theme: 
+      version: 3
+      bootswatch: readable
     orientation: columns
     vertical_layout: fill
 runtime: shiny
